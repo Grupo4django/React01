@@ -15,7 +15,7 @@ const App = () => {
       rating: 4.5,
       genre: "Sci-Fi",
       duration: "169 min",
-      image: "https://via.placeholder.com/300x450/234B96/FEFEFE?text=Interstellar",
+      image: "https://pics.filmaffinity.com/Interstellar-229339994-large.jpg",
       description: "A team of explorers travel through a wormhole in space.",
       showTimes: ["2:30 PM", "5:45 PM", "9:00 PM"]
     },
@@ -25,7 +25,7 @@ const App = () => {
       rating: 4.8,
       genre: "Thriller",
       duration: "148 min",
-      image: "https://via.placeholder.com/300x450/23B5E8/FEFEFE?text=Inception",
+      image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88PCbHm3hyphenhyphenvBtFJ0aOzeD1X15qJ8V-trbpsqbPAveXpZaetKdLhyZTFWqWUGkE6-HUOFs7c6tckJnHjVgBUwW_4haqdn599MEgFWVuibVrsCTPBP5Owyjza-9hky_75HzV3GjXh0kDlUt25kE6vjccWUwNhYlTQ7hNsLUsYPKh86EmqwO4DGzWKioNfM/s1008/critica-pelicula-origen-2010.jpg",
       description: "A skilled thief enters people's dreams to steal secrets.",
       showTimes: ["1:00 PM", "4:15 PM", "7:30 PM", "10:45 PM"]
     },
@@ -35,7 +35,7 @@ const App = () => {
       rating: 4.7,
       genre: "Action",
       duration: "136 min",
-      image: "https://via.placeholder.com/300x450/23B58B/FEFEFE?text=Matrix",
+      image: "https://m.media-amazon.com/images/S/pv-target-images/50c40f3c19e0edfd85792a8352dd157ec3950d3a5ab304aa5605fefd1fecbdc9._SX1080_FMjpg_.jpg",
       description: "A computer hacker learns about the true nature of reality.",
       showTimes: ["3:00 PM", "6:15 PM", "9:30 PM"]
     }
