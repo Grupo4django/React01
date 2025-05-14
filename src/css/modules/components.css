@@ -1,0 +1,5 @@
+.card__image {
+  width: 300px; /* Ancho específico */
+  height: 200px; /* Altura específica */
+  object-fit: cover; /* Ajusta la imagen para que se vea bien */
+}
